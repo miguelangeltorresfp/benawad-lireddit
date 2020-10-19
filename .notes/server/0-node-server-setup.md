@@ -1,4 +1,4 @@
-# 2020-10-18
+# 0_node-typescript-setup
 
 * init project => `npm init -y`
 
